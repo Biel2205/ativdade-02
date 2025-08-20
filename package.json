@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "jest": "^30.0.5"
+  },
+  "name": "ativdade-02",
+  "version": "1.0.0",
+  "main": "funcoes.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
